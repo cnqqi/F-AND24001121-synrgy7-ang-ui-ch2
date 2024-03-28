@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Challenge2_AnggiSusanti" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize other attributes here if needed -->
+    </style>
+</resources>
